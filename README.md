@@ -13,7 +13,7 @@
 </ul>
 <br/>
 <div>
-<img height="600" padding="20" alt="Screenshot of the app, showing a user typing in the task they want to focus on" src="https://github.com/braynary/photofocus/blob/main/1.png">&nbsp;&nbsp;<img height="600" alt="Screenshot of the app, showing the timer counting down" src="https://github.com/braynary/photofocus/blob/main/2.png">&nbsp;
+<img height="600" padding="20" alt="Screenshot of the app, showing a user typing in the task they want to focus on" src="https://github.com/braynary/photofocus/blob/main/1.1.png">&nbsp;&nbsp;<img height="600" alt="Screenshot of the app, showing the timer counting down" src="https://github.com/braynary/photofocus/blob/main/2.png">&nbsp;
 <img height="600" alt="Screenshot of the app, showing a list of completed tasks" src="https://github.com/braynary/photofocus/blob/main/3.png">
 </div>
 <br/>
